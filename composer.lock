@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "php-mime-mail-parser/php-mime-mail-parser",
-            "version": "2.11.0",
+            "version": "2.11.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-mime-mail-parser/php-mime-mail-parser.git",
-                "reference": "98e8a013e6c502b927a346f26982653c9f5efaa8"
+                "reference": "4769e942ed0dbbdd7882fc390b119d625463c8af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-mime-mail-parser/php-mime-mail-parser/zipball/98e8a013e6c502b927a346f26982653c9f5efaa8",
-                "reference": "98e8a013e6c502b927a346f26982653c9f5efaa8",
+                "url": "https://api.github.com/repos/php-mime-mail-parser/php-mime-mail-parser/zipball/4769e942ed0dbbdd7882fc390b119d625463c8af",
+                "reference": "4769e942ed0dbbdd7882fc390b119d625463c8af",
                 "shasum": ""
             },
             "require": {
@@ -84,7 +84,7 @@
                 "mailparse",
                 "mime"
             ],
-            "time": "2018-03-15T12:29:09+00:00"
+            "time": "2018-04-30T05:55:59+00:00"
         }
     ],
     "packages-dev": [],
